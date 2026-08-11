@@ -1,0 +1,1 @@
+Store generated QR images here
